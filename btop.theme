@@ -1,0 +1,73 @@
+# Omarchy custom btop theme
+
+# Main background
+theme[main_bg]="#0E131B"
+
+# Main text color
+theme[main_fg]="#9DA5B3"
+
+# Title color for boxes
+theme[title]="#81a1c1"
+
+# Highlight / accent (used for keys etc.)
+theme[hi_fg]="#81a1c1"
+
+# Background of selected item in process list
+theme[selected_bg]="#4c566a"
+
+# Foreground of selected item
+theme[selected_fg]="#d7dae0"
+
+# Inactive / disabled text
+theme[inactive_fg]="#394761"
+
+# Graph text (numbers on graphs)
+theme[graph_text]="#9DA5B3"
+
+# Meter background (bars behind usage bars)
+theme[meter_bg]="#3b4252"
+
+# Box outline colors (pick the accent for consistency)
+theme[cpu_box]="#81a1c1"
+theme[mem_box]="#81a1c1"
+theme[net_box]="#81a1c1"
+theme[proc_box]="#81a1c1"
+
+# Divider lines
+theme[div_line]="#394761"
+
+# Graph / meter colors
+
+# CPU graph colors (start, mid, end)
+theme[cpu_start]="#81a1c1"
+theme[cpu_mid]="#55b5d0"
+theme[cpu_end]="#598DEF"
+
+# Memory/Disk free meter
+theme[free_start]="#499149"
+theme[free_mid]="#88cd57"
+theme[free_end]="#ebcb8b"
+
+# Disk cached / used / available (use varied colors)
+theme[cached_start]="#55b5d0"
+theme[cached_mid]="#A78CFA"
+theme[cached_end]="#52cecc"
+
+theme[used_start]="#499149"
+theme[used_mid]="#88cd57"
+theme[used_end]="#ebcb8b"
+
+theme[available_start]="#52cecc"
+theme[available_mid]="#598DEF"
+theme[available_end]="#55b5d0"
+
+# Network download graph
+theme[download_start]="#598DEF"
+theme[download_mid]="#55b5d0"
+theme[download_end]="#81a1c1"
+
+# Network upload graph
+theme[upload_start]="#A78CFA"
+theme[upload_mid]="#c76bb6"
+theme[upload_end]="#52cecc"
+
